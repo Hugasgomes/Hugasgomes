@@ -24,5 +24,6 @@ E iniciando o aprendizado de:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugasgomes&hide_progress=true)
 
 
-<a href="https://www.instagram.com/hugasgomes/"  target="_blank"> MEU INSTAGRAN <a/> 
+<a href="https://www.instagram.com/hugasgomes/"  target="_blank"> instagram <a/> 
 
+<a href="https://www.facebook.com/hugas.gomes"> facebook <a/>
